@@ -11,3 +11,5 @@ Some theory explanation and Code resumes are visible on the wiki of each example
 * [SVM](https://github.com/ieCecchetti/Python_ML_DL_example/blob/master/SVM/README.md/#Intro)
 * [DeepLearning](https://github.com/ieCecchetti/Python_ML_DL_example/blob/master/DeepLearning/README.md/#Intro)
 
+
+###### Hope this could be usefull for someone. Leave me a feedback if you want. Enjoy
